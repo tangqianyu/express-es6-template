@@ -1,5 +1,3 @@
-
-
 export function getDefinedObj(o) {
   let temp = {}
   for (let key in o) {
